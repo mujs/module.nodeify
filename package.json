@@ -1,0 +1,8 @@
+{
+  "name": "module.nodeify",
+  "version": "0.1.0",
+  "main": "src/nodeify.js",
+  "dependencies": {
+    "gulp-header": "*"
+  }
+}
