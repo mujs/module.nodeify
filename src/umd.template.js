@@ -5,4 +5,3 @@ module = (function (module, require) {
     module.exports = definition(require);
   };
 })(module, require);
-

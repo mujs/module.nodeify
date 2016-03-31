@@ -1,8 +1,18 @@
 {
-  "name": "module.nodeify",
+  "name": "module.umdify",
   "version": "0.1.0",
-  "main": "src/nodeify.js",
+  "main": "src/umdify.js",
   "dependencies": {
+    "del": "*",
+    "gulp": "*",
+    "gulp-eslint": "*",
     "gulp-header": "*"
+  },
+  "scripts": {
+    "setup": "npm install",
+    "upgrade": "npm update",
+    "lint":"gulp lint",
+    "test":"gulp test",
+    "build" : "gulp build"
   }
 }
