@@ -1,8 +1,5 @@
 (function (module) {
-  'use strict';
-
-  {{ module }}
-
+{{ module }}
 })((function () {
   'use strict';
 
