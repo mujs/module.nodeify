@@ -11,7 +11,7 @@ var footer = tokens[1];
 
 module.exports = function () {
   return wrapper({
-    header: header
+    header: header,
     footer: footer
   });
 };

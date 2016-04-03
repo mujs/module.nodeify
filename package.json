@@ -1,6 +1,6 @@
 {
   "name": "module.umdify",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "main": "src/umdify.js",
   "dependencies": {
     "gulp-wrapper": "^1.0.0"
